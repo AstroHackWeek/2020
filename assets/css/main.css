@@ -1311,7 +1311,7 @@
 
 	body {
 		background-color: #6d4f78;/*#183026; */
-		background-image: url("../../images/bkg_shaded.jpg"), url("../../images/bkg_shaded_small.jpg");
+		background-image: url("../../images/flatiron.jpg"), url("../../images/flatiron.jpg");
 		/*background-image: url("images/overlay.png"), url("../../images/bkg_small.png");*/
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
@@ -2292,7 +2292,7 @@
 
 			body {
 				background-color: #6d4f78;/*#203936;*/
-				background-image: url("../../images/bkg_shaded_small.jpg"), url("../../images/bkg_shaded_small.jpg");*/
+				background-image: url("../../images/flatiron.jpg"), url("../../images/flatiron.jpg");*/
 				background-repeat: no-repeat, no-repeat;
 				background-size: auto, 100% auto;
 				background-position: top left, top center;
