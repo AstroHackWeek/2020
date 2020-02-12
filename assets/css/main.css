@@ -377,9 +377,9 @@
 	}
 
 	.\32 u, .\32 u\24 {
-		width: 16.6666666667%;
+		width: 16.285%;
 		clear: none;
-		margin-left: 0;
+		margin-left: -2%;
 	}
 
 	.\31 u, .\31 u\24 {
@@ -1326,7 +1326,7 @@
 		text-shadow: 0 0 0.5px rgba(58, 57, 57, 0.25);
 		-webkit-text-stroke: 0.25px;
 	}
-	
+
 		body.is-scroll {
 			background-attachment: scroll, scroll;
 			background-size: auto, 100% auto;
@@ -1676,7 +1676,7 @@
 			width: 100%;
 		}
 		  table.center {
-    			margin-left:auto; 
+    			margin-left:auto;
     			margin-right:auto;
   			}
 
@@ -1694,7 +1694,7 @@
 
 			.tr.style1 {
 				background-color:#c9c2dc;
-				
+
 
 			}
 			table.default th {
